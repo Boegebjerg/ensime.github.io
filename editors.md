@@ -46,22 +46,23 @@ The following chart describes how well ENSIME supports each editor:
 | Main language          | Emacs Lisp                | Coffeescript           | Python              | Typescript          | Python                    |
 | Upstream Licence       | [GPL]                     | [MIT]                  | [Charityware]       | [GPL]/[Apache2]     | Proprietary               |
 | Greetings              | ✔                         |                        |                     |                     |                           |
-| Type at point          | ✔                         | ✔                      | ✔                   | ✔                   | ✔                         |
-| Contextual completion  | ✔                         | ✔                      | ✔                   | ✔                   | ✔                         |
-| Live errors / warnings | ✔                         | ✔                      | ✔                   | ✔                   | ✔                         |
+| Type at point          | ✔                         | ✔                      | ✔                   | ✔                   |                          |
+| Contextual completion  | ✔                         | ✔                      | ✔                   | ✔                   |                          |
+| Live errors / warnings | ✔                         | ✔                      | ✔                   | ✔                   |                          |
 | Semantic highlighting  | ✔                         |                        |                     |                     |                           |
 | Implicit conversions   | ✔                         | ✔                      |                     |                     |                           |
-| Import class at point  | ✔                         | ✔                      | ✔                   |                     | ✔                         |
-| Classpath search       | ✔                         | ✔                      | ✔                   |                     | ✔                         |
-| Jump to source         | ✔                         | ✔                      | ✔                   | ✔                   | ✔                         |
-| Show documentation     | ✔                         | ✔                      | ✔                   |                     | ✔                         |
-| Rename symbol          | ✔                         |                        | ✔                   |                     | ✔                         |
-| Organise imports       | ✔                         | ✔                      | ✔                   |                     | ✔                         |
+| Import class at point  | ✔                         | ✔                      | ✔                   |                     |                          |
+| Classpath search       | ✔                         | ✔                      | ✔                   |                     |                          |
+| Jump to source         | ✔                         | ✔                      | ✔                   | ✔                   |                          |
+| Show documentation     | ✔                         | ✔                      | ✔                   |                     |                          |
+| Rename symbol          | ✔                         |                        | ✔                   |                     |                          |
+| Organise imports       | ✔                         | ✔                      | ✔                   |                     |                          |
 | Debugging              | ✔                         |                        | Partial             |                     |                           |
 | Java Support: ENJIME   | ✔                         |                        |                     |                     |                           |
 | REPL                   | ✔                         |                        |                     |                     |                           |
 | sbt integration        | ✔                         |                        |                     | ✔                   |                           |
-| Find usages            | ✔ (unstable)              |                        |                     |                     | ✔              |
-| Show implementations   | ✔ (unstable)              |                        |                     |                     | ✔              |
+| Find usages            | ✔ (unstable)              |                        |                     |                     |               |
+| Show implementations   | ✔ (unstable)              |                        |                     |                     |               |
 | [Advanced type search] |                           |                        |                     |                     |                           |
 | [Passive suggestions]  |                           |                        |                     |                     |                           |
+| Freeze your computer   |                           |                        |                     |                     | ✔                       |
